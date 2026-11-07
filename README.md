@@ -144,7 +144,8 @@ Examples include:
 - [ ] Add more door variations. Current door is 180 door. Left and right 90 doors should be added.
 - [ ] Rooms with double doors.
 - [ ] Rooms with more door connections.
-- [ ] Connect two rooms to form more unique odd shape rooms.
+- [ ] Connect two rooms to form unique odd shape rooms.
+- [ ] Code clean up and more code comments.
 
 ---
 
