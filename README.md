@@ -51,6 +51,17 @@ The generation process includes:
 4. Create connections between rooms.
 5. Generate the resulting room layout.
 
+---
+
+## How to play
+
+Open this world in VRChat. https://vrchat.com/home/world/wrld_19a86643-2f9f-4601-98ad-2b24e23f81b5/info
+
+1. Move to the right and enter Range Control Room.
+2. Set size and seed.
+3. Click generate to generate Kill House.
+4. Click Spawn Targets.
+5. Have fun!
 
 ---
 
@@ -127,10 +138,13 @@ Examples include:
 
 ---
 
-## Future Updates
+## Possible Future Updates
 
-- [ ] Further improve procedural room generation.
-- [ ] Add more door variations. Current door is 180 door. P
+- [ ] Further improve procedural room generation by improving BSP code.
+- [ ] Add more door variations. Current door is 180 door. Left and right 90 doors should be added.
+- [ ] Rooms with double doors.
+- [ ] Rooms with more door connections.
+- [ ] Connect two rooms to form more unique odd shape rooms.
 
 ---
 
