@@ -161,7 +161,7 @@ Developed by Kasder [Kasderian]. Someone took the GitHub Username Kasder already
 
 Built using Unity, UdonSharp, and the VRChat SDK.
 
-Thank you, my VRChat friends.
+My VRChat friends, thank you.
 
 With the help of Claude, ChatGPT and Gemini.
 
@@ -170,5 +170,5 @@ With the help of Claude, ChatGPT and Gemini.
 ## License
 
 <!-- Specify your chosen license here -->
-
+Credit me and use it as how you like. Don't break and laws or rules to Unity and VRChat.
 
