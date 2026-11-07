@@ -53,7 +53,7 @@ The generation process includes:
 
 ---
 
-## How to play
+## How to Play
 
 Open this world in VRChat. https://vrchat.com/home/world/wrld_19a86643-2f9f-4601-98ad-2b24e23f81b5/info
 
@@ -118,6 +118,16 @@ Assets/
 
 ---
 
+## Development Environment
+
+- Unity 2022.3.22f1
+- VRChat SDK - Base 3.10.5
+- VRWorld Toolkit 3.4.1
+- VRChat SDK - Worlds 3.10.5
+- VRChat Package Resolver Tool 0.1.29
+
+---
+
 ## Installation
 
 1. Clone or download this repository.
@@ -143,7 +153,7 @@ Examples include:
 
 ---
 
-## Possible Future Updates
+## Possible Future Updates????
 
 - [ ] Further improve procedural room generation by improving BSP code.
 - [ ] Add more door variations. Current door is 180 door. Left and right 90 doors types should be added.
@@ -162,13 +172,15 @@ Examples include:
 
 ## Credits
 
-Developed by Kasder [Kasderian]. Someone took the GitHub Username Kasder already. 
-
-Built using Unity, UdonSharp, and the VRChat SDK.
+Developed by Kasder [Kasderian]. Someone took the GitHub Username Kasder already, lol.
 
 My VRChat friends, thank you.
 
 With the help of Claude, ChatGPT and Gemini.
+
+---
+
+## Third-Party Assets & Resources
 
 [QvPen](https://booth.pm/ja/items/1555789)
 
