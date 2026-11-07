@@ -9,7 +9,7 @@ Built with Unity and UdonSharp, this project features procedural room layouts, i
 ## Screenshots
 
 
-![World Thumbnail](CQB Training Random Generator/Assets/Thumbnail/900px-World_Thumbnail_Template.png)
+![World Thumbnail](CQBTrainingRandomGenerator/Assets/Thumbnail/900px-World_Thumbnail_Template.png)
 ![World Screenshot](ReadMeImages/VRChat_2026-10-01_22-03-58.736_1920x1080.png)
 
 ---
