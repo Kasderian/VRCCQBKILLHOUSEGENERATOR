@@ -156,7 +156,7 @@ Examples include:
 
 ## Credits
 
-Developed by Kasder [Kasderian].
+Developed by Kasder [Kasderian]. Someone took the GitHub Username Kasder already. 
 
 Built using Unity, UdonSharp, and the VRChat SDK.
 
