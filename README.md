@@ -9,8 +9,9 @@ Built with Unity and UdonSharp, this project features procedural room layouts, i
 ## Screenshots
 
 
-![World Thumbnail](CQBTrainingRandomGenerator/Assets/Thumbnail/900px-World_Thumbnail_Template.png)
+![World Thumbnail](CQB%20Training%20Random%20Generator/Assets/Thumbnail/900px-World_Thumbnail_Template.png)
 ![World Screenshot](ReadMeImages/VRChat_2026-10-01_22-03-58.736_1920x1080.png)
+![World Screenshot](ReadMeImages/VRChat_2026-10-04_23-35-44.823_1920x1080.png)
 
 ---
 
@@ -144,6 +145,8 @@ Examples include:
 Developed by Kasder [Kasderian].
 
 Built using Unity, UdonSharp, and the VRChat SDK.
+
+Thank you, my VRChat friends.
 
 With the help of Claude, ChatGPT and Gemini.
 
