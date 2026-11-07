@@ -10,8 +10,6 @@ Built with Unity and UdonSharp, this project features procedural room layouts, i
 
 
 ![World Thumbnail](CQB%20Training%20Random%20Generator/Assets/Thumbnail/900px-World_Thumbnail_Template.png)
-![World Screenshot](ReadMeImages/VRChat_2026-10-01_22-03-58.736_1920x1080.png)
-![World Screenshot](ReadMeImages/VRChat_2026-10-04_23-35-44.823_1920x1080.png)
 
 ---
 
@@ -57,11 +55,15 @@ The generation process includes:
 
 Open this world in VRChat. https://vrchat.com/home/world/wrld_19a86643-2f9f-4601-98ad-2b24e23f81b5/info
 
+![World Screenshot](ReadMeImages/VRChat_2026-11-07_12-51-51.493_1920x1080.png)
+
 1. Move to the right and enter Range Control Room.
 2. Set size and seed.
 3. Click generate to generate Kill House.
 4. Click Spawn Targets.
 5. Have fun!
+
+![World Screenshot](ReadMeImages/VRChat_2026-10-04_23-35-44.823_1920x1080.png)
 
 ---
 
@@ -100,15 +102,16 @@ Gameplay systems are designed to support multiple players, with network ownershi
 
 ```text
 Assets/
-├── Scripts/
-│   ├── Generation/
-│   ├── Gameplay/
-│   ├── Networking/
-│   └── UI/
-├── Prefabs/
+├── Animation/
 ├── Materials/
-├── Models/
-└── Scenes/
+├── Prefabs Guns/
+├── Prefabs Other/
+├── Prefabs Walls/
+├── QvPen/
+├── Scenes/
+├── Scripts/
+├── Sounds/
+└── Terrain/
 ```
 
 ---
@@ -141,7 +144,7 @@ Examples include:
 ## Possible Future Updates
 
 - [ ] Further improve procedural room generation by improving BSP code.
-- [ ] Add more door variations. Current door is 180 door. Left and right 90 doors should be added.
+- [ ] Add more door variations. Current door is 180 door. Left and right 90 doors types should be added.
 - [ ] Rooms with double doors.
 - [ ] Rooms with more door connections.
 - [ ] Connect two rooms to form unique odd shape rooms.
@@ -165,10 +168,19 @@ My VRChat friends, thank you.
 
 With the help of Claude, ChatGPT and Gemini.
 
+[QvPen](https://booth.pm/ja/items/1555789)
+
+[Ding Sound](https://pixabay.com/sound-effects/film-special-effects-ding-101492/)
+
+[Gun Sound](https://pixabay.com/sound-effects/film-special-effects-gunshot-352466/)
+
 ---
 
 ## License
 
 <!-- Specify your chosen license here -->
 Credit me and use it as how you like. Don't break and laws or rules to Unity and VRChat.
+
+
+![World Screenshot](ReadMeImages/VRChat_2026-10-04_23-35-44.823_1920x1080.png)
 
