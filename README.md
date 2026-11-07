@@ -179,7 +179,7 @@ With the help of Claude, ChatGPT and Gemini.
 ## License
 
 <!-- Specify your chosen license here -->
-Credit me and use it as how you like. Don't break and laws or rules to Unity and VRChat.
+Credit me and use it as how you like. Please don't break any laws or any rules to Unity and VRChat.
 
 
 ![World Screenshot](ReadMeImages/VRChat_2026-10-04_23-35-44.823_1920x1080.png)
