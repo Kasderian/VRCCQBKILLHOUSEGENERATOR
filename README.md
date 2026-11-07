@@ -8,9 +8,9 @@ Built with Unity and UdonSharp, this project features procedural room layouts, i
 
 ## Screenshots
 
-<!-- Add screenshots of your world here -->
 
-![World Screenshot](Images/screenshot-1.png)
+![World Thumbnail](ReadMeImages/VRChat_2026-10-01_22-03-58.736_1920x1080.png)
+![World Screenshot](ReadMeImages/VRChat_2026-10-01_22-03-58.736_1920x1080.png)
 
 ---
 
@@ -27,7 +27,7 @@ The project focuses on procedural generation, multiplayer synchronization, and i
 ## Features
 
 - **Procedural Room Generation** – Generate randomized room layouts using a Binary Space Partitioning (BSP) algorithm.
-- **Customizable Generation Settings** – Configure room limits, dimensions, and generation parameters.
+- **Customizable Generation Settings** – Configure Kill House by setting room size (width and length) and seed.
 - **Interactive Firearms** – Pick up and use weapons throughout the environment.
 - **Target System** – Spawn and manage targets for shooting practice.
 - **Multiplayer Synchronization** – Network-synchronized gameplay elements.
@@ -50,7 +50,6 @@ The generation process includes:
 4. Create connections between rooms.
 5. Generate the resulting room layout.
 
-<!-- Add a BSP generation diagram or screenshots here -->
 
 ---
 
@@ -130,10 +129,7 @@ Examples include:
 ## Future Updates
 
 - [ ] Further improve procedural room generation.
-- [ ] Expand room and layout variations.
-- [ ] Add more gameplay customization.
-- [ ] Improve generation performance.
-- [ ] Add additional training scenarios.
+- [ ] Add more door variations.
 
 ---
 
@@ -145,9 +141,11 @@ Examples include:
 
 ## Credits
 
-Developed by [Your Name / GitHub Username].
+Developed by Kasder [Kasderian].
 
 Built using Unity, UdonSharp, and the VRChat SDK.
+
+With the help of Claude, ChatGPT and Gemini.
 
 ---
 
