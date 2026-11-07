@@ -63,7 +63,7 @@ Open this world in VRChat. https://vrchat.com/home/world/wrld_19a86643-2f9f-4601
 4. Click Spawn Targets.
 5. Have fun!
 
-![World Screenshot](ReadMeImages/VRChat_2026-10-04_23-35-44.823_1920x1080.png)
+![World Screenshot](ReadMeImages/VRChat_2026-11-07_12-52-36.779_1920x1080.png)
 
 ---
 
