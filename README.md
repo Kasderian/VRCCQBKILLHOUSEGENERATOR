@@ -8,8 +8,7 @@ https://vrchat.com/home/world/wrld_19a86643-2f9f-4601-98ad-2b24e23f81b5/info
 
 ---
 
-## Screenshots
-
+## Thumbnail
 
 ![World Thumbnail](CQB%20Training%20Random%20Generator/Assets/Thumbnail/900px-World_Thumbnail_Template.png)
 
@@ -195,6 +194,9 @@ With the help of Claude, ChatGPT and Gemini.
 <!-- Specify your chosen license here -->
 Credit me and use it as how you like. Please don't break any laws or any rules to Unity and VRChat.
 
+---
+
+## Screenshots
 
 ![World Screenshot](ReadMeImages/VRChat_2026-10-04_23-35-44.823_1920x1080.png)
 
